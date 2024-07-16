@@ -1,4 +1,4 @@
-# Conversor de Euro para Dólar
+# Conversor de Euro/Dolar para Dólar
 
 Este é um aplicativo Android simples que converte valores de Euros para Dólares. 
 
